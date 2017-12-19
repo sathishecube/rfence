@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="69318" started-at="2016-05-13T11:32:38Z" finished-at="2016-05-13T11:33:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="69318" started-at="2016-05-13T11:32:38Z" finished-at="2016-05-13T11:33:48Z">
+      <class name="rFence.Mainfn">
+        <test-method status="PASS" signature="testing()[pri:0, instance:rFence.Mainfn@137bc9]" name="testing" duration-ms="69306" started-at="2016-05-13T17:02:38Z" finished-at="2016-05-13T17:03:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+      </class> <!-- rFence.Mainfn -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
